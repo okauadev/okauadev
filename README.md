@@ -15,6 +15,8 @@ Estudante de desenvolvimento web, construindo minha jornada do zero com dedicaç
 - ![GitHub Streak](https://streak-stats.demolab.com?user=okauadev&locale=pt_BR&theme=tokyonight) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?okauadev=anuraghazra&show_icons=true)
 
+![Snake](https://raw.githubusercontent.com/okauadev/okauadev/output/github-snake-dark.svg)
+
 ---
 
 <div style="display: inline_block"><br>
