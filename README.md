@@ -12,8 +12,8 @@ Estudante de desenvolvimento web, construindo minha jornada do zero com dedicaç
 - 🌱 Cada linha de código é um passo a mais na jornada
 - 📍 Brasil
 
-![GitHub Streak](https://streak-stats.demolab.com?user=okauadev&locale=pt_BR&theme=tokyonight)
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=okauadev&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/okauadev)
+![GitHub Streak](https://streak-stats.demolab.com?user=okauadev&locale=pt_BR&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okauadev&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/okauadev)
 ![Snake](https://raw.githubusercontent.com/okauadev/okauadev/output/github-snake-dark.svg)
 
