@@ -1,15 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kauã De Oliveira</h1>
-<h3 align="center">Estudante Engenharia de Software</h3>
+# Olá, eu sou o Kauã de Oliveira 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okauadev&label=Profile%20views&color=0e75b6&style=flat" alt="okauadev" /> </p>
+Estudante de desenvolvimento web, construindo minha jornada do zero com dedicação e consistência.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okauadev" alt="okauadev" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 Sobre mim
+
+- 🎓 Atualmente estudando **HTML & CSS** com o curso do Gustavo Guanabara
+- 📚 Em breve: **JavaScript** para dar vida às páginas
+- 🔭 Objetivo futuro: back-end com **Java, PHP, C# e C++**
+- 🌱 Cada linha de código é um passo a mais na jornada
+- 📍 Brasil
+
+- ![GitHub Streak](https://streak-stats.demolab.com?user=okauadev&locale=pt_BR&theme=tokyonight) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?okauadev=anuraghazra&show_icons=true)
+
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Estudando agora
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Em breve
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### No radar (futuro)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📈 Minha jornada
+
+```
+[■■■■■□□□□□□□□□□] Front-end básico — em andamento
+[□□□□□□□□□□□□□□□] JavaScript       — em breve
+[□□□□□□□□□□□□□□□] Back-end         — no futuro
+```
+
+---
+
+## 💬 Frase que me motiva
+
+> *"Todo especialista já foi um iniciante."*
+
+---
+
+## 📫 Contato
+
+Se quiser trocar ideia sobre programação, pode me chamar por aqui mesmo pelo GitHub!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okauadev&color=blue&style=flat-square" alt="Visualizações do perfil" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=okauadev&show_icons=true&locale=en&layout=compact" alt="okauadev" /></p>
+<p align="center">⚡ Construindo o futuro, uma tag de cada vez.</p>
