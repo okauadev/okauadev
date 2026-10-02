@@ -4,13 +4,6 @@ Estudante de desenvolvimento web, construindo minha jornada do zero com dedicaç
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Atualmente estudando **HTML & CSS** com o curso do Gustavo Guanabara
-- 📚 Em breve: **JavaScript** para dar vida às páginas
-- 🔭 Objetivo futuro: back-end com **Java, PHP, C# e C++**
-- 🌱 Cada linha de código é um passo a mais na jornada
-- 📍 Brasil
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=okauadev&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/okauadev)
 ![GitHub Streak](https://streak-stats.demolab.com?user=okauadev&locale=pt_BR&theme=tokyonight)
